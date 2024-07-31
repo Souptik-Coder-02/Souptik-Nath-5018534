@@ -1,0 +1,13 @@
+1) Why DSA is essential here :
+
+- Fast Retrieval: Efficient data structures allows quick search operations enabling fast retrieval
+
+- Efficient Storage: Ensure data is organized in efficient manner
+
+- Scalability : Makes the process scalable
+
+2) Suitable data structures :
+
+HashMap: Ideal for quick search, insertion, and deletion operations based on product IDs.
+
+ArrayList: Suitable for scenarios where the order of products is essential

@@ -1,0 +1,15 @@
+Time Complexity:
+
+Add: O(1) 
+Search: O(n)
+Traverse: O(n)
+Delete: O(n) for finding the element and shifting elements to fill the gap.
+
+Limitations of Arrays:
+
+Fixed Size: Arrays have a fixed size which cannot be changed after creation.
+Insertion/Deletion: Inserting or deleting elements requires shifting elements, which can be inefficient.
+Memory Usage: Arrays may waste memory if not fully utilized or require resizing if the capacity is exceeded.
+When to Use Arrays:
+
+Use arrays when we have a fixed number of elements and need fast access to elements by index.

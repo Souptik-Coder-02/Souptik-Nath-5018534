@@ -1,0 +1,3 @@
+Singly Linked List: A singly linked list consists of nodes where each node contains a data element and a reference to the next node in the sequence. It allows traversal in one direction only.
+
+Doubly Linked List: A doubly linked list has nodes with two references: one to the next node and one to the previous node. This allows traversal in both directions.

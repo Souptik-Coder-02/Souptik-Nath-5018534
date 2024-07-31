@@ -1,0 +1,7 @@
+Array Representation: Arrays in memory are stored as contiguous blocks of memory. Each element is indexed starting from zero, and the address of each element can be computed using the base address and the index.
+
+Advantages:
+
+Constant Time Access: Direct access to elements by index.
+Memory Efficiency: No overhead of additional data structures.
+Cache Friendly: Contiguous memory allocation improves cache performance.

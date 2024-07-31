@@ -1,0 +1,8 @@
+Time Complexity:
+
+Linear Search: O(n) for both best and worst cases.
+Binary Search: O(log n) for both best and worst cases
+
+Binary Search is more suitable for large datasets due to its logarithmic time complexity. However, it requires the array to be sorted.
+
+Linear Search is simpler and works with unsorted data but is less efficient for large datasets.

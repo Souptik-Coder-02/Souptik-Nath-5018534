@@ -1,0 +1,10 @@
+1. Time complexity -
+
+Add Product: O(1) average time complexity, as HashMap allows constant time insertion.
+
+Update Product: O(1) average time complexity, similar to the add operation.
+
+Delete Product: O(1) average time complexity, as deletion by key is also a constant time operation in HashMap
+
+2. Further optimization-
+Using custom hash function to avoid any collision
